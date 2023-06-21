@@ -1,9 +1,9 @@
 ### Hola 👋
 
-I'm Laura, a newbie web developer from Spain.
+I'm Laura, a dev from Spain.
 
-- 🦄 Currenty studying Cross-platform app development (Java and SQL).
-- 🪐 Frontend enthusiast, learning MEAN stack.
-- 🌍 English-Spanish translator as well, interested in i18n, L10n and web accessibility.
+- 🦄 Studied Cross-platform app development.
+- 👓 Currently exploring the world of XR.
+- 🌍 English-Spanish translator as well.
 - ⚡ Contact me @ https://www.linkedin.com/in/laura-ballesteros-luj%C3%A1n-65999180/
 
